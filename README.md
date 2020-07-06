@@ -14,9 +14,7 @@ Para ello debemos crear un perfil de seguridad, el cual se encuentra en https://
   - Security Provider Information
     Seleccionar la opción:
     Auth Code Grant
-      - Authorization URI
-        https://www.amazon.com/ap/oa
-      - Access Token URI
-        https://api.amazon.com/auth/o2/token
+      - Authorization URI:  https://www.amazon.com/ap/oa
+      - Access Token URI:   https://api.amazon.com/auth/o2/token
 
 
