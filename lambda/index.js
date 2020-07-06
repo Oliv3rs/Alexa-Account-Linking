@@ -25,7 +25,7 @@ const LaunchRequestHandler = {
             
             /*
             data.user_id : "amzn1.account.xxxxxx"
-            data.email : "ogonzalezj@grupoacir.com.mx"
+            data.email : "ogonzalez@xxxxxx.com.mx"
             data.name : "Oliver Gónzalez"
             data.postal_code: "10400"
             */
