@@ -8,9 +8,9 @@ Para ello debemos crear un perfil de seguridad, el cual se encuentra en https://
 
 - Crear un nuevo perfil de seguridad
 - Habilitar Account Linking en nuestra skill (Build-Tools-Account Linking
-  - Do you allow users to create an account or link to an existing account with you?  "Habilitar"
+  - Do you allow users to create an account or link to an existing account with you?    "Habilitar"
   - Settings
-    - Allow users to enable skill without account linking (Recommended).
+    - Allow users to enable skill without account linking (Recommended).   "Habilitar"
   - Security Provider Information
     Seleccionar la opción:
     Auth Code Grant
