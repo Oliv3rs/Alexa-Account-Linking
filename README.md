@@ -22,5 +22,6 @@ Para ello debemos crear un perfil de seguridad, el cual se encuentra en https://
   - Security Provider Information ( Seleccionar la opción: Auth Code Grant)
       - Authorization URI:  https://www.amazon.com/ap/oa
       - Access Token URI:   https://api.amazon.com/auth/o2/token
-
+      
+![Alt text](https://github.com/Oliv3rs/Alexa-Account-Linking/blob/master/imgs/configAL.JPG)
 
