@@ -7,6 +7,11 @@ Es el enlace entre una skill y los datos de identidad del usuario Amazon, tales 
 Para ello debemos crear un perfil de seguridad, el cual se encuentra en https://developer.amazon.com/loginwithamazon/console/site/lwa/overview.html
 
 - Crear un nuevo perfil de seguridad
+
+![Alt text](https://github.com/Oliv3rs/Alexa-Account-Linking/blob/master/imgs/LoginWithAmazon.JPG)
+
+![Alt text](https://github.com/Oliv3rs/Alexa-Account-Linking/blob/master/imgs/perfilSeguridad.JPG)
+
 - Habilitar Account Linking en nuestra skill (Build-Tools-Account Linking)
 
 ![Alt text](https://github.com/Oliv3rs/Alexa-Account-Linking/blob/master/imgs/accountLinking1.JPG)
