@@ -31,5 +31,5 @@ Para ello debemos crear un perfil de seguridad, el cual se encuentra en https://
 
 -Daremos click en el botón editar:
 
-![Alt text](https://github.com/Oliv3rs/Alexa-Account-Linking/blob/master/imgs/url-retorno.jpg)
+![Alt text](https://github.com/Oliv3rs/Alexa-Account-Linking/blob/master/imgs/urls-retorno.jpg)
 
