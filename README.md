@@ -28,3 +28,8 @@ Para ello debemos crear un perfil de seguridad, el cual se encuentra en https://
 -Para obtener Your Client ID y Your Secret deberemos entrar a Gestión de perfiles de seguridad - Configuración web en amazon developer
 
 ![Alt text](https://github.com/Oliv3rs/Alexa-Account-Linking/blob/master/imgs/id-secreto.jpg)
+
+-Daremos click en el botón editar:
+
+![Alt text](https://github.com/Oliv3rs/Alexa-Account-Linking/blob/master/imgs/url-retorno.jpg)
+
