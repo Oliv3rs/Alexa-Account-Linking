@@ -5,7 +5,7 @@ const LaunchRequestHandler = {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest'||
       handlerInput.requestEnvelope.request.type === 'IntentRequest' &&
         (
-          handlerInput.requestEnvelope.request.intent.name === 'ConsejoIntent' ||
+          handlerInput.requestEnvelope.request.intent.name === 'DatosIntent' ||
           handlerInput.requestEnvelope.request.intent.name === 'AMAZON.RepeatIntent' 
           
       );
