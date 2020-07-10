@@ -12,7 +12,7 @@
                 "name": "AMAZON.StopIntent",
                 "samples": []
             }, {
-                "name": "ConsejoIntent",
+                "name": "DatosIntent",
                 "slots": [],
                 "samples": ["inicia", "abre"]
             }, {
